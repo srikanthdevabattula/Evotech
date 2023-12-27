@@ -141,7 +141,7 @@ yarn add react-icons --save
 
 
 
-npm install swiper
+
 
 
 
