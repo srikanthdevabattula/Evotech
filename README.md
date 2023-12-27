@@ -142,4 +142,60 @@ yarn add react-icons --save
 
 
 npm install swiper
-and install remaining dependencies like chartjs etc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+npm install chart.js@4.4.1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+npm install react-chartjs-2@5.2.0
