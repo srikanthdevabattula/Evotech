@@ -4,7 +4,7 @@ go to the project file
 Clone the Repository:
 Click on the "Code" button, copy the repository URL, and use the following command in your terminal to clone it to your local machine:
 
-**git clone [https://github.com/srikanthdevabattula/Srikanth-Projects.git](https://github.com/srikanthdevabattula/Evotech.git)** or download the zip file and extract
+**git clone https://github.com/srikanthdevabattula/Evotech.git** or download the zip file and extract
 
 
 
