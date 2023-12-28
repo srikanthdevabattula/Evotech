@@ -1,6 +1,26 @@
 # Srikanth-Projects
 
 
+
+
+
+
+
+
+
+
+used REACTJS + TAILWINDCSS
+
+
+
+
+
+
+
+
+
+
+
 Host url:      
 https://658c176b30feee5bbf925888--funny-treacle-1e5d46.netlify.app/
 go to the project file
